@@ -1,0 +1,26 @@
+﻿#r_area {
+    margin: 10px auto 0px;
+	padding: 0px 0 0;
+	width: 95%;
+	border-radius: 4px;
+	border: 1px solid #aaa;
+	background: #fff;
+	line-height: 1.8;
+}
+#r_area .r_item {
+    margin: 24px auto 0;
+    width: 90%;
+	border-bottom: 1px solid #CEE1EE;
+}
+#r_area .r_title {
+    text-align: center;
+	font: normal 18px arial,微软雅黑,sans-serif;
+	color: #06c;
+}
+#sidebar .sidebar_nav ul li a {
+    padding: 5px 8px 5px 24px;
+	margin: 0 0px;
+}
+#main h4 em{
+    background: url(./images/ui-icons_2e83ff_256x240.png) -176px -112px no-repeat;
+}

@@ -1,0 +1,23 @@
+﻿.item_tb{
+    margin: 20px auto 0 auto;
+	width: 92%;
+	border: 1px solid #06c;
+	font-size: 15px;
+}
+.item_tb tr,.item_tb td {
+	border: 1px solid #C1DAD7;
+	text-indent: 0.5em;
+}
+.item_tb tr.odd {
+    background: whiteSmoke;
+}
+.item_tb tr.even {
+    background: #fff;
+}
+.item_tb .entry {
+    width: 22%; 
+    color: #4f6b72;
+}
+.item_tb .value {
+    width: 28%;
+}

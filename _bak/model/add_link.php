@@ -1,0 +1,1 @@
+<?php	header("Content-Type:text/html;charset=utf-8");	include("connect.php");	$sql="insert into link (l_name,l_mark,l_content) values('".$_POST['lname']."','".$_POST['mark']."','".$_POST['website']."' )";	mysql_query($sql);	echo $flag = mysql_affected_rows();?>

@@ -1,0 +1,1 @@
+<?php	header("Content-Type:text/html;charset=utf-8");	if($_GET['modify_login_mark']==account)		require_once("../model/modify_account_model.php");//修改账号	if($_GET['modify_login_mark']==password)		require_once("../model/modify_password_model.php");//修改密码?>

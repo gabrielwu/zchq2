@@ -1,0 +1,18 @@
+﻿.intro_area {
+	height: 760px;
+	padding: 45px;   
+	border-radius: 4px;     
+	background: #fff;
+    padding-top: 0px;
+} 
+.intro_area h2 {
+    font: bold 30px arial,隶书,sans-serif;
+	margin: 10px auto 15px;
+	text-align: center;
+}
+.intro_area .content {
+    text-indent:2em;
+	font: normal 15px arial,微软雅黑,sans-serif;
+	line-height: 180%;
+	margin: 5px 0;
+}  

@@ -1,0 +1,75 @@
+﻿*{font-family:arial,sans-serif,Verdana;}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+
+.list_table tr {
+}
+.list_table a:hover {
+    text-decoration: underline;
+}
+#login {
+    font-size: 12px;
+}
+#header #banner #site_name{
+    font: bold 18px arial,sans-serif,微软雅黑,宋体,仿宋,黑体;
+}
+#content .nav ul li{
+	list-style: none;
+}
+#content .nav ul li a{
+    font: bold 25px arial,sans-serif,微软雅黑,宋体,仿宋,黑体;
+    text-decoration: none;
+}
+#header .nav .second_nav p a{
+    font: normal 16px arial,sans-serif,微软雅黑,宋体,仿宋,黑体;
+}
+#header .nav .second_nav p a:hover{
+	text-decoration:underline;
+	border-radius: 0;
+}
+#sidebar .sidebar_nav{
+    font-size: 88%;     
+}
+#sidebar .sidebar_nav h3 a,#sidebar .sidebar_nav_1 h3 a {
+	font-family: arial;
+	font-size: 15px;
+	font-weight: bold;
+}
+#sidebar .sidebar_nav ul li,#sidebar .sidebar_nav_1 ul li { 
+    font-size: 13px;   	
+}
+#sidebar .sidebar_nav ul li a,#sidebar .sidebar_nav_1 ul li a{
+    font-size: 13px;     
+}
+#sidebar .bold_a ul li a{
+	font-weight: bold;
+}
+#sidebar .sidebar_nav ul li a:hover{
+    font-weight: bold;    
+}
+
+#sidebar .sidebar_nav ul li.current{
+	font-weight: normal;   
+}
+#sidebar  #sidebar_nav_1 ul li{
+    text-indent: 0em;
+}
+#main #area {
+	line-height: 1.8;
+}
+#back_to_top a{
+	text-align: center;
+	font: bold 15px arial,sans-serif;
+	line-height: 2.4;
+}
+
+#footer .copyright {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+}
